@@ -5,7 +5,7 @@ Ultimate soldering practice board for beginners/noobs. Includes through-hole and
 **PCB:**
 ![](media/pcb.jpeg)
 
-![](media/3D.jpeg)
+![](media/3D.png)
 
 **CAD Software:** 
 [KiCAD](https://kicad-pcb.org/)
